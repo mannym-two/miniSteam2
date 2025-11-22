@@ -1,0 +1,11 @@
+Main.class
+entidades\Jogo.class
+sistema\ControleUsuario.class
+sistema\ControleLoja.class
+ui\MessageFrame.class
+telas\TelaLoja.class
+telas\TelaBiblioteca.class
+telas\TelaLogin.class
+telas\CadastreDialog.class
+entidades\Usuario.class
+telas\TelaDetalhesJogo.class
